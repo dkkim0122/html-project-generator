@@ -1,6 +1,6 @@
 {
   "name": "html-project-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate Base HTML Project",
   "main": "index.js",
   "bin": {
@@ -9,7 +9,11 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": ["html", "project", "generator"],
+  "keywords": [
+    "html",
+    "project",
+    "generator"
+  ],
   "author": "Dokyung Kim",
   "license": "ISC"
 }
