@@ -1,6 +1,6 @@
 {
   "name": "html-project-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate Base HTML Project",
   "main": "index.js",
   "bin": {
