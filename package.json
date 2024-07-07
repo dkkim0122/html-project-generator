@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Generate Base HTML Project",
   "main": "index.js",
+  "bin": {
+    "html-project-generator": "index.js"
+  },
   "scripts": {
     "start": "node index.js"
   },
